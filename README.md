@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/display.gif" alt="MasterHead" style="width: 100%; display: block;"/>
+  <img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="MasterHead" style="width: 100%; display: block;"/>
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ansh-2211.Ansh-2211" />
 
@@ -76,4 +76,4 @@
 
 <hr/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=29&pause=1000&color=533F7B&width=435&lines=Thanks+for+visiting+%F0%9F%98%8E;I'm+ready+to+collaborate+and;turn+our+visions+into+reality!+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=29&pause=1000&color=533F7B&width=435&lines=Thanks+for+visiting+%F0%9F%98%8E;I'm+ready+to+collaborate+and;turn+our+visions+into+reality!+%F0%9F%A4%96" alt="Typing SVG" /></a>
