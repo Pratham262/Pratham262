@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham262&label=Profile%20views&color=0e75b6&style=flat" alt="pratham262" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDj-Sl9AY15eDJtG-OhL5yBmGBU4nIkZ8tA&s" alt="pratham262" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prathamarya18" target="blank"><img src="https://img.shields.io/twitter/follow/prathamarya18?logo=twitter&style=for-the-badge" alt="prathamarya18" /></a> </p>
 
