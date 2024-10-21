@@ -4,7 +4,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ansh-2211.Ansh-2211" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&sfont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9370DB&lines=Hey+There,+Explorer!+🧭;+I'm+Pratham+Arya!+🖥️;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&sfont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000&lines=Hey+There,+Explorer!+🧭;+I'm+Pratham+Arya!+🖥️;" />
 </h1>
 
 <h3 align="center">An impassioned Machine Learning Engineer committed to turning data into actionable insights and smart solutions</h3>
