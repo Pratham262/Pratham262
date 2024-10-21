@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif?cid=5e5bdae9rx17i1n4e24ru2p6857xad320swap1ee2q7etvv8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" style="width: 100%; display: block;"/>
+  <img src="https://media4.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif?cid=5e5bdae9rx17i1n4e24ru2p6857xad320swap1ee2q7etvv8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" style="width: 70%; display: block;"/>
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ansh-2211.Ansh-2211" />
 
