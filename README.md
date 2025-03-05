@@ -32,9 +32,6 @@
   <a href="https://www.linkedin.com/in/pratham-arya-1670061bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
-  <a href="https://" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-8822A6?style=for-the-badge&logo=todoist&logoColor=white"  /> 
-  </a>
 </div>
 
 <hr/>
