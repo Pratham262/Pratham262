@@ -48,28 +48,32 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center" style="color:#00E6E6; font-weight:bold;">⚡ GitHub Stats ⚡</h2>
 <br>
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pratham262&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
 
+  <!-- GitHub Streak Stats -->
+  <div style="background: #1F1B24; padding: 15px; border-radius: 12px; box-shadow: 3px 3px 10px rgba(0, 230, 230, 0.3);">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pratham262&count_private=true&theme=gruvbox&border_radius=10" alt="GitHub Streak Stats"/>
+  </div>
 
   <!-- GitHub Profile Stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratham262&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-
-  <br/>
+  <div style="background: #1E2A38; padding: 15px; border-radius: 12px; box-shadow: 3px 3px 10px rgba(255, 105, 180, 0.3);">
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratham262&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+  </div>
 
   <!-- Most Used Languages -->
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham262&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <div style="background: #1B2A2F; padding: 15px; border-radius: 12px; box-shadow: 3px 3px 10px rgba(255, 193, 7, 0.3);">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham262&langs_count=8&layout=compact&theme=monokai&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  </div>
 
 </div>
 
 <br/><br/>
 
 <hr/>
+
 
 
 
