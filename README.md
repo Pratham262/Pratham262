@@ -48,26 +48,28 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
+
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pratham&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
 
-  <!-- GitHub ReadMe Stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratham&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
+  <!-- GitHub Profile Stats -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+
   <br/>
 
-  <!-- Top Languages Used -->
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- Most Used Languages -->
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 
 </div>
 
 <br/><br/>
 
 <hr/>
+
 
 
 
