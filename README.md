@@ -54,7 +54,8 @@
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratham262&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pratham262&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
 
   <!-- GitHub Profile Stats -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratham262&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
