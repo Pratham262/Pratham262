@@ -56,20 +56,41 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<!-- Stylish GitHub Profile Stats -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pratham&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratham&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h2 align="center">🚀 GitHub Stats & Insights 🚀</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+  <!-- Streak Stats with a Shadow Effect -->
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Pratham&count_private=true&theme=tokyonight-duo&border_radius=15" 
+       alt="streak stats" 
+       style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);" />
+
+  <!-- GitHub ReadMe Stats with Custom Hover Effect -->
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Pratham&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15" 
+       alt="GitHub stats" 
+       style="border-radius: 15px; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+
+  <!-- Most Used Languages with a Glass Effect -->
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+       alt="Top Languages" 
+       style="border-radius: 15px; backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.1);" />
+
 </div>
 
-<br/><br/>
+<br/>
 
-<hr/>
+<!-- Custom Divider -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #ff8c00, #ff0080, #8a2be2); margin: 20px 0;"/>
+
+<h2 align="center">🎯 Connect with Me 🎯</h2>
+<div align="center">
+  <a href="https://github.com/Pratham" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
 
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000&lines=Thanks+for+visiting+😎;+I'm+always+down+to+collab+🤖;" />
